@@ -1,0 +1,8 @@
+{
+  "name": "AI 2027: Superhuman Intelligence XR",
+  "description": "An immersive WebXR spatial simulation and interactive timeline of the landmark AI 2027 scenario, featuring 3D biosecurity models, multi-turn Gemini intelligence, and compute telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
