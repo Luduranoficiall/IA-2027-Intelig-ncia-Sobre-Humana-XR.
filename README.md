@@ -15,9 +15,9 @@
 
 > *Copie e cole diretamente nos campos do seu repositório (GitHub, GitLab ou portal interno da empresa):*
 
-### 🔹 Descrição Curta (GitHub About / Tagline - até 350 caracteres)
+### 🔹 Descrição Oficial Selecionada (GitHub About / Tagline - 179 caracteres)
 ```text
-Observatório espacial WebXR e simulador do landmark scenario "AI 2027". Integra visualização 3D de modelos neurais e contenção biológica SCI-4, inteligência conversacional com Google Gemini 3.8 Flash, telemetria de mega-clusters em streaming com feedback háptico tátil para controladores WebXR, áudio espacial procedural e exportação de Dossiês Executivos de Governança em PDF com pré-visualização.
+Ambiente espacial WebXR do cenário AI 2027: telemetria de mega-clusters em tempo real, modelos 3D de biossegurança, feedback háptico e inteligência estratégica com Google Gemini.
 ```
 
 ### 🔹 Descrição Comercial & Institucional (Para Apresentações / README Header)
